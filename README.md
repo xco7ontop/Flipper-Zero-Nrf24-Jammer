@@ -2,16 +2,16 @@
 
 > ⚠️ **Disclaimer:** This project is intended for authorized testing and experimentation with your own hardware and RF environment. Do not use RF transmission features to interfere with networks, devices, or communications that you do not own or have permission to test.
 
-## Preview
-
-![Nrf24 Jammer Plus](images/Screenshot-20260905-004433.png)
-
 ## ⚙️ Firmware Support
 
 This application is built specifically for **Flipper Zero with Momentum Firmware**.
 
 > **Momentum Firmware is required.**
 
+
+## Preview
+
+![Nrf24 Jammer Plus](images/Screenshot-20260905-004433.png)
 
 ## Features
 

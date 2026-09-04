@@ -40,7 +40,6 @@ The app currently provides three configuration options:
 * `OFF`
 * `ON`
 
-Settings are saved automatically and restored when the application starts.
 
 ## Project Structure
 

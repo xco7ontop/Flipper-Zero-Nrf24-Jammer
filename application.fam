@@ -1,0 +1,22 @@
+App(
+appid="nrf24_jammer_plus",
+name="[NRF24] Plus Jammer",
+apptype=FlipperAppType.EXTERNAL,
+entry_point="nrf24_jammer_app",
+stack_size=1024,
+fap_category="GPIO",
+fap_private_libs=[
+Lib(
+    name="nrf24_lib",
+    sources=[
+        "nrf24.c",
+    ],
+),
+
+],
+fap_author="Xco7ontop",
+fap_weburl="xco7.com.tr",
+fap_version="1.0.0",
+fap_icon="icon.png",
+fap_icon_assets="images",
+)
